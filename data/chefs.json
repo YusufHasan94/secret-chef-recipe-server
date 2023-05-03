@@ -3,6 +3,7 @@
       "id": 1,
       "picture": "https://img.freepik.com/free-photo/confident-young-male-cook-wearing-chef-uniform-glasses-crossing-hands_141793-81464.jpg?w=1380&t=st=1683047398~exp=1683047998~hmac=fc1a2c7992d5b3ee56c4876130802f959935be8037cf1143b1117e1b0cd0f016",
       "name": "Chef Ahmed Hossain",
+      "description":"Ahmed Hossain, a top-ranked chef in our country, changed the taboo that cooking is only for females. He represented our country's traditional food in different cooking shows and recognised Bengali cuisine internationally.",
       "years_of_experience": 10,
       "number_of_recipes": 50,
       "likes": 5000
@@ -10,7 +11,8 @@
     {
       "id": 2,
       "picture": "https://img.freepik.com/free-photo/young-pleased-caucasian-cook-girl-chef-uniform-crosses-arms-isolated-orange-wall-with-copy-space_141793-33366.jpg?w=1380&t=st=1683047484~exp=1683048084~hmac=dcb905e2311e77edfa520b14f060f778540bc6cb46d4406a73c5d843664d2912",
-      "name": "Siddika Kabir",
+      "name": "Shelly Nuruzzaman",
+      "description":"Shelly's family moved to Britain in the 1960s, but they were always in touch with Bengali cuisine. She was interested to learn the magic of cooking. His father started a restaurant with Bengali cuisine in Britain. From there, her cooking journey started as she got the chance to learn to cook. The experiment-loving chef has a knack for fusions and has blended many British recipes with Bengali ones.",
       "years_of_experience": 8,
       "number_of_recipes": 40,
       "likes": 4000
@@ -19,6 +21,7 @@
       "id": 3,
       "picture": "https://img.freepik.com/free-photo/confident-young-male-cook-wearing-chef-uniform-crossing-hands-isolated-white-wall-with-copy-space_141793-36521.jpg?w=1380&t=st=1683047615~exp=1683048215~hmac=7f25c1830ef8bb3e420af2649ceb1636106825d871e65565ce8d9d1c35128f51",
       "name": "Chef Fakruddin",
+      "description":"You must have heard about Fakruddin's Biriyani and may also have tasted the delicious biriyani of Haji Fakruddin. He is also one of the top chefs in our country with his unique recipes. Haji Fakruddin moved to Bangladesh in 1966 as he was facing severe financial issues. So he decided to work for his financial stability and started to learn cooking. Working dedicatedly, he achieved mastery in the cooking field",
       "years_of_experience": 15,
       "number_of_recipes": 80,
       "likes": 8000
@@ -27,6 +30,7 @@
       "id": 4,
       "picture": "https://img.freepik.com/free-photo/young-smiling-afro-american-cook-chef-uniform-crosses-arms-holds-rolling-pin-isolated-orange-wall_141793-33423.jpg?w=1380&t=st=1683047741~exp=1683048341~hmac=0bf50b0ffdb83720278c28397f818ccd62f0b6aafd129661f3f158a225a43fa3",
       "name": "Tommy Miah",
+      "description":"Tommy Miah is a British celebrity chef born in a small village in the Sylhet district. He went to England at the age of ten. The passionate chef opened a restaurant at the age of 17 only. With the help of mobile software, we can get all his delicious recipes in our country. His cooking show 'Tommy Miah'r Rannaghar' became widely popular and inspired hundreds of cooking shows in the coming days.",
       "years_of_experience": 5,
       "number_of_recipes": 30,
       "likes": 3000
@@ -34,7 +38,8 @@
     {
       "id": 5,
       "picture": "https://img.freepik.com/free-photo/joyful-young-male-chef-wearing-uniform-looking-side-pointing-side-isolated-brown-background_141793-137575.jpg?w=1380&t=st=1683047834~exp=1683048434~hmac=890b62e2949673df443eec864f1db75a6311a43259fba42cbb00a5ee8d3c0f89",
-      "name": "Chef Kabir",
+      "name": "Tony Khan",
+      "description":"Culinary expert Tony khan is one of the most famous chefs in our country. In 1998, his fame peaked as he got enlisted as one of the top 10 chefs in the world. Prior to that, he gained the honour of a culinary expert of the year in Papua Niugini. In 2006, Tony joined Raddison Blu Water Garden and The Westin in 2009 -- two of the most premium hotels in Dhaka. ",
       "years_of_experience": 12,
       "number_of_recipes": 70,
       "likes": 7000
@@ -42,7 +47,8 @@
     {
       "id": 6,
       "picture": "https://img.freepik.com/free-photo/young-smiling-caucasian-cook-girl-chef-uniform-points-side-isolated-green-wall-with-copy-space_141793-33513.jpg?w=1380&t=st=1683047905~exp=1683048505~hmac=6b0f5ccf45fd5d9066d042de508394f228151bba55bf06af55c7d454785a437c",
-      "name": "Keka Ferdousi",
+      "name": "Chef Kabir",
+      "description":"Siddiqua Kabir was a nutritionist, cooking book writer, cooking artist and a popular cooking show host. In 1965, she started her journey in the cooking field and began her cooking show on the then-Pakistani TV channel. She has authored many popular cooking-related books.",
       "years_of_experience": 7,
       "number_of_recipes": 45,
       "likes": 4500
