@@ -1,57 +1,444 @@
 [
     {
       "id": 1,
-      "picture": "https://img.freepik.com/free-photo/confident-young-male-cook-wearing-chef-uniform-glasses-crossing-hands_141793-81464.jpg?w=1380&t=st=1683047398~exp=1683047998~hmac=fc1a2c7992d5b3ee56c4876130802f959935be8037cf1143b1117e1b0cd0f016",
-      "name": "Chef Ahmed Hossain",
-      "description":"Ahmed Hossain, a top-ranked chef in our country, changed the taboo that cooking is only for females. He represented our country's traditional food in different cooking shows and recognised Bengali cuisine internationally.",
+      "picture": "https://thiswaytoitaly.com/wp-content/uploads/2022/11/Massimo-Bottura-Famous-Italian-Chefs-1024x682.webp?ezimgfmt=ng:webp/ngcb1",
+      "name": "Massimo Bottura",
+      "description":"Massimo Bottura is an Italian restaurateur and the chef patron of Osteria Francescana, a three-Michelin-star restaurant based in Modena, Italy ranked No.1 on The World's 50 Best Restaurants list twice and currently part of the Best of the Best list. Massimo Bottura was born and raised in Modena, Italy. He developed an interest in cooking from a young age while watching his mother, grandmother and aunt in the kitchen, preparing meals for the family.",
       "years_of_experience": 10,
-      "number_of_recipes": 50,
-      "likes": 5000
+      "number_of_recipes": 3,
+      "likes": 5000,
+      "recipes":[
+            {
+                "id": "ITA001",
+                "name": "Margherita Pizza",
+                "ingredients": [
+                    "1 pound pizza dough",
+                    "1/2 cup tomato sauce",
+                    "8 ounces fresh mozzarella cheese, sliced",
+                    "Fresh basil leaves",
+                    "Olive oil"
+                ],
+                "method": [
+                    "Preheat oven to 475°F.",
+                    "Roll out pizza dough on a floured surface.",
+                    "Spread tomato sauce over dough.",
+                    "Arrange mozzarella cheese slices on top.",
+                    "Drizzle with olive oil.",
+                    "Bake pizza for 10-12 minutes or until crust is golden brown.",
+                    "Top with fresh basil leaves before serving."
+                ],
+                "rating": 4.8
+            },
+            {
+                "id": "ITA002",
+                "name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "1 pound spaghetti",
+                    "1/2 pound pancetta or bacon, diced",
+                    "4 cloves garlic, minced",
+                    "4 eggs",
+                    "1 cup grated Parmesan cheese",
+                    "Salt and pepper to taste"
+                ],
+                "method": [
+                    "Cook spaghetti according to package directions.",
+                    "In a skillet, cook pancetta or bacon over medium heat until crispy.",
+                    "Add garlic and cook for 1 minute.",
+                    "In a mixing bowl, whisk eggs and Parmesan cheese.",
+                    "Drain spaghetti and reserve 1/2 cup of pasta water.",
+                    "Add spaghetti and reserved pasta water to skillet with pancetta.",
+                    "Remove skillet from heat and pour in egg mixture, tossing pasta until coated.",
+                    "Season with salt and pepper before serving."
+                ],
+                "rating": 4.7
+            },
+            {
+                "id": "ITA003",
+                "name": "Chicken Parmesan",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "1 cup Italian-seasoned breadcrumbs",
+                    "1/2 cup grated Parmesan cheese",
+                    "2 eggs, beaten",
+                    "1 cup tomato sauce",
+                    "4 slices mozzarella cheese",
+                    "2 tablespoons olive oil"
+                ],
+                "method": [
+                    "Preheat oven to 375°F.",
+                    "Season chicken breasts with salt and pepper.",
+                    "In a mixing bowl, combine breadcrumbs and Parmesan cheese.",
+                    "Dip chicken in beaten eggs, then coat in breadcrumb mixture.", 
+                    "In a skillet, heat olive oil over medium-high heat.",
+                    "Add chicken and cook until golden brown, about 3-4 minutes per side.",
+                    "Transfer chicken to a baking dish and top each breast with tomato sauce and a slice of mozzarella cheese.",
+                    "Bake chicken for 15-20 minutes or until cheese is melted and bubbly.",
+                    "Let chicken cool for 5 minutes before serving."
+                ],
+                "rating": 4.6
+            }
+      ]
     },
     {
       "id": 2,
-      "picture": "https://img.freepik.com/free-photo/young-pleased-caucasian-cook-girl-chef-uniform-crosses-arms-isolated-orange-wall-with-copy-space_141793-33366.jpg?w=1380&t=st=1683047484~exp=1683048084~hmac=dcb905e2311e77edfa520b14f060f778540bc6cb46d4406a73c5d843664d2912",
-      "name": "Shelly Nuruzzaman",
-      "description":"Shelly's family moved to Britain in the 1960s, but they were always in touch with Bengali cuisine. She was interested to learn the magic of cooking. His father started a restaurant with Bengali cuisine in Britain. From there, her cooking journey started as she got the chance to learn to cook. The experiment-loving chef has a knack for fusions and has blended many British recipes with Bengali ones.",
+      "picture": "https://thiswaytoitaly.com/wp-content/uploads/2022/11/Giada-De-Laurentiis-Italian-Chefs-1024x726.webp?ezimgfmt=ng:webp/ngcb1",
+      "name": "Giada De Laurentiis",
+      "description":"Chef Giada De Laurentiis, one of the best chefs from Italy. She was born in Rome in 1970 and moved to the United States when she was 7 years old. You may recognize Chef Giada from her 2021 cooking show called Bobby and Giada in Italy, where she prepares delicious Italian dishes on TV. Before her television debut, however, Giada Laurentiis started her cooking expertise in her grandfather’s kitchen as she would help him cook in her younger years. From there she was able to observe how food is prepared and all the other stuff that make a good cook. It was also during the time of her grandfather’s restaurant DDL Foodshow, where Laurentiis really grasped the qualities and traits of Italian cuisine.",
       "years_of_experience": 8,
-      "number_of_recipes": 40,
-      "likes": 4000
+      "number_of_recipes": 3,
+      "likes": 4000,
+      "recipes":[
+            {
+                "id": "ITA004",
+                "name": "Lasagna",
+                "ingredients": [
+                    "lasagna noodles", 
+                    "ground beef", 
+                    "tomato sauce", 
+                    "ricotta cheese", 
+                    "mozzarella cheese", 
+                    "parmesan cheese"
+                ],
+                "method": [
+                    "Cook lasagna noodles", 
+                    "brown ground beef and mix with tomato sauce", 
+                    "layer lasagna noodles, meat sauce, ricotta cheese,and mozzarella cheese", 
+                    "repeat until all ingredients are used up, top with parmesan cheese", 
+                    "bake in the oven"
+                ],
+                "rating": 4.3
+            },
+            {
+                "id": "ITA005",
+                "name": "Risotto",
+                "ingredients": [
+                    "arborio rice", 
+                    "chicken or vegetable broth", 
+                    "onion", 
+                    "butter", 
+                    "parmesan cheese", 
+                    "white wine"
+                ],
+                "method": [
+                    "Sauté onion in butter, add rice and stir until toasted", 
+                    "add white wine and stir until absorbed", 
+                    "add broth gradually while stirring", 
+                    "when the rice is cooked, add parmesan cheese and stir"
+                ],
+                "rating": 3.5
+            },
+            {
+                "id": "ITA006",
+                "name": "Caprese Salad",
+                "ingredients": [
+                    "tomato", 
+                    "fresh mozzarella cheese", 
+                    "basil", 
+                    "olive oil", 
+                    "balsamic vinegar"
+                ],
+                "method": [
+                    "Slice tomato and fresh mozzarella cheese", 
+                    "arrange alternately on a plate, top with fresh basil, drizzle olive oil and balsamic vinegar"
+                ],
+                "rating": 4.2
+            }
+        ]
     },
     {
       "id": 3,
-      "picture": "https://img.freepik.com/free-photo/confident-young-male-cook-wearing-chef-uniform-crossing-hands-isolated-white-wall-with-copy-space_141793-36521.jpg?w=1380&t=st=1683047615~exp=1683048215~hmac=7f25c1830ef8bb3e420af2649ceb1636106825d871e65565ce8d9d1c35128f51",
-      "name": "Chef Fakruddin",
-      "description":"You must have heard about Fakruddin's Biriyani and may also have tasted the delicious biriyani of Haji Fakruddin. He is also one of the top chefs in our country with his unique recipes. Haji Fakruddin moved to Bangladesh in 1966 as he was facing severe financial issues. So he decided to work for his financial stability and started to learn cooking. Working dedicatedly, he achieved mastery in the cooking field",
+      "picture": "https://thiswaytoitaly.com/wp-content/uploads/2022/11/Fabio-Viviani-Italian-chef.webp?ezimgfmt=ng:webp/ngcb1",
+      "name": "Fabio Viviani",
+      "description":"Fabio Viviani started his love for food at a very young age by working as a helper in a local bakery in his home city of Florence in Tuscany. He was only allowed to work there despite not being old enough to get employed because he was friends with the owner. From then on, he has worked in various restaurants. With his amazing cooking skills, Viviani became one of the youngest sous chefs in Italian history at the age of 16.",
       "years_of_experience": 15,
       "number_of_recipes": 80,
-      "likes": 8000
+      "likes": 8000,
+      "recipes":[
+            {
+                "id": "ITA007",
+                "name": "Osso Buco",
+                "ingredients": [
+                    "veal shanks", 
+                    "onion", 
+                    "carrot", 
+                    "celery", 
+                    "tomato paste", 
+                    "white wine", 
+                    "beef broth", 
+                    "garlic", 
+                    "parsley"
+                ],
+                "method": [
+                    "Sauté onion, carrot, and celery", 
+                    "add veal shanks and brown", 
+                    "add tomato paste, white wine, and beef broth", 
+                    "add garlic", 
+                    "cover and simmer for a few hours", 
+                    "garnish with parsley"
+                ],
+                "rating": 4.1
+            },
+            {
+                "id": "ITA008",
+                "name": "Minestrone Soup",
+                "ingredients": [
+                    "onion", 
+                    "carrot", 
+                    "celery", 
+                    "zucchini", 
+                    "canned tomatoes", 
+                    "kidney beans", 
+                    "vegetable broth", 
+                    "pasta", 
+                    "parmesan cheese"
+                ],
+                "method": [
+                    "Sauté onion, carrot, celery, and zucchini", 
+                    "add canned tomatoes, kidney beans, and vegetable broth", 
+                    "bring to a boil", 
+                    "add pasta and cook until tender",
+                    "serve with parmesan cheese"
+                ],
+                "rating": 3.5
+            },
+            {
+                "id": "ITA009",
+                "name": "Tiramisu",
+                "ingredients": [
+                    "ladyfingers", 
+                    "espresso", 
+                    "mascarpone cheese", 
+                    "eggs", 
+                    "sugar", 
+                    "cocoa powder"
+                ],
+                "method": [
+                    "Dip ladyfingers in espresso", 
+                    "arrange in a dish", 
+                    "beat mascarpone cheese, eggs, and sugar", 
+                    "spread mixture over ladyfingers", 
+                    "sprinkle with cocoa powder", 
+                    "chill in the refrigerator"
+                ],
+                "rating": 4.2
+            }
+        ]
     },
     {
       "id": 4,
-      "picture": "https://img.freepik.com/free-photo/young-smiling-afro-american-cook-chef-uniform-crosses-arms-holds-rolling-pin-isolated-orange-wall_141793-33423.jpg?w=1380&t=st=1683047741~exp=1683048341~hmac=0bf50b0ffdb83720278c28397f818ccd62f0b6aafd129661f3f158a225a43fa3",
-      "name": "Tommy Miah",
-      "description":"Tommy Miah is a British celebrity chef born in a small village in the Sylhet district. He went to England at the age of ten. The passionate chef opened a restaurant at the age of 17 only. With the help of mobile software, we can get all his delicious recipes in our country. His cooking show 'Tommy Miah'r Rannaghar' became widely popular and inspired hundreds of cooking shows in the coming days.",
+      "picture": "https://thiswaytoitaly.com/wp-content/uploads/2022/11/Gino-DAcampo-Italian-Chefs-1024x682.webp?ezimgfmt=ng:webp/ngcb1",
+      "name": "Gino D’Acampo",
+      "description":"Chef Gino D’Acampo is known to be one of the few Italian chefs that brought the Italian cuisine – particularly from the south of Naples – to the world, especially to the United Kingdom. As the UK is famous for welcoming indigenous and foreign cooking masters, D’Acampo seized the opportunity to showcase the best of Italian cuisine. Having spread joy and devotion of food, D’Acampo has opened at least 11 branches of his restaurant named after him in the UK, where he serves his sumptuous dishes made with love – keeping it simple and traditional.",
       "years_of_experience": 5,
       "number_of_recipes": 30,
-      "likes": 3000
+      "likes": 3000,
+      "recipes":[
+        {
+            "id": "ITA0010",
+            "name": "Bolognese Sauce",
+            "ingredients": [
+                "ground beef", 
+                "onion", 
+                "carrot", 
+                "celery", 
+                "canned tomatoes", 
+                "beef broth", 
+                "red wine", 
+                "garlic"
+            ],
+            "method": [
+                "Sauté onion, carrot, and celery", 
+                "add ground beef and brown", 
+                "add canned tomatoes, beef broth, and red wine", 
+                "add garlic", 
+                "simmer for a few hours"
+            ],
+            "rating": 4.3
+        },
+        {
+            "id": "ITA0011",
+            "name": "Bruschetta",
+            "ingredients": [
+                "baguette", 
+                "tomato", 
+                "garlic", 
+                "basil", 
+                "olive oil"
+            ],
+            "method": [
+                "Slice baguette", 
+                "toast in the oven", 
+                "rub with garlic, top with diced tomato and chopped basil", 
+                "drizzle with olive oil"
+            ],
+            "rating": 4.8
+        },
+        {
+            "id": "ITA0012",
+            "name": "Gnocchi",
+            "ingredients": [
+                "potatoes", 
+                "flour", 
+                "egg", 
+                "parmesan cheese", 
+                "salt"
+            ],
+            "method": [
+                " Boil potatoes, mash", 
+                "add flour, egg, parmesan cheese, and salt", 
+                "knead into a dough", 
+                "shape into small dumplings", 
+                "boil in salted water until they float"
+            ],
+            "rating": 4.5
+        }
+    ]
     },
     {
       "id": 5,
-      "picture": "https://img.freepik.com/free-photo/joyful-young-male-chef-wearing-uniform-looking-side-pointing-side-isolated-brown-background_141793-137575.jpg?w=1380&t=st=1683047834~exp=1683048434~hmac=890b62e2949673df443eec864f1db75a6311a43259fba42cbb00a5ee8d3c0f89",
-      "name": "Tony Khan",
-      "description":"Culinary expert Tony khan is one of the most famous chefs in our country. In 1998, his fame peaked as he got enlisted as one of the top 10 chefs in the world. Prior to that, he gained the honour of a culinary expert of the year in Papua Niugini. In 2006, Tony joined Raddison Blu Water Garden and The Westin in 2009 -- two of the most premium hotels in Dhaka. ",
+      "picture": "https://thiswaytoitaly.com/wp-content/uploads/2022/11/Giorgio-Locatelli-Italian-Chefs-892x1024.webp?ezimgfmt=ng:webp/ngcb1",
+      "name": "Giorgio Locatelli",
+      "description":"Chef Giorgio Locatelli and one would see the total seriousness this great Italian chef puts in his work. Well, that is only a fraction of the dedication he has for the profession. As everyone knows, Chef Giorgio Locatelli is largely a traditional Italian by heart. He was born in 1960 in the Northern Italian city of Vergiate, 45 km. northwest of Milan and some 15 km. southwest of Varese.",
       "years_of_experience": 12,
       "number_of_recipes": 70,
-      "likes": 7000
+      "likes": 7000,
+      "recipes":[
+        {
+            "id": "ITA0013",
+            "name": "Arancini",
+            "ingredients": [
+                "risotto", 
+                "mozzarella cheese", 
+                "breadcrumbs", 
+                "egg", 
+                "tomato sauce"
+            ],
+            "method": [
+                "Shape leftover risotto into balls", 
+                "insert a cube of mozzarella cheese", 
+                "dip in beaten egg", 
+                "coat with breadcrumbs", 
+                "deep fry", 
+                "serve with tomato sauce"
+            ],
+            "rating": 4.2
+        },
+        {
+            "id": "ITA0014",
+            "name": "Cannoli",
+            "ingredients": [
+                "ricotta cheese", 
+                "powdered sugar", 
+                "cinnamon", 
+                "vanilla extract", 
+                "chocolate chips", 
+                "cannoli shells"
+            ],
+            "method": [
+                "Mix ricotta cheese, powdered sugar, cinnamon, vanilla extract, and chocolate chips", 
+                "fill cannoli shells with the mixture"
+            ],
+            "rating": 4.7
+        },
+        {
+            "id": "ITA0015",
+            "name": "Saltimbocca",
+            "ingredients": [
+                "veal cutlets", 
+                "prosciutto", 
+                "sage leaves", 
+                "white wine", 
+                "butter", 
+                "flour"
+            ],
+            "method": [
+                "Pound veal cutlets, top each with a slice of prosciutto and a sage leaf", 
+                "roll up and secure with toothpicks", 
+                "dredge in flour", 
+                "brown in butter", 
+                "deglaze with white wine",
+                "simmer until cooked"
+            ],
+            "rating": 5
+        }
+    ]
     },
     {
       "id": 6,
-      "picture": "https://img.freepik.com/free-photo/young-smiling-caucasian-cook-girl-chef-uniform-points-side-isolated-green-wall-with-copy-space_141793-33513.jpg?w=1380&t=st=1683047905~exp=1683048505~hmac=6b0f5ccf45fd5d9066d042de508394f228151bba55bf06af55c7d454785a437c",
-      "name": "Chef Kabir",
-      "description":"Siddiqua Kabir was a nutritionist, cooking book writer, cooking artist and a popular cooking show host. In 1965, she started her journey in the cooking field and began her cooking show on the then-Pakistani TV channel. She has authored many popular cooking-related books.",
+      "picture": "https://thiswaytoitaly.com/wp-content/uploads/2022/11/Carlo-Cracco-Italian-Chefs-745x1024.webp?ezimgfmt=ng:webp/ngcb1",
+      "name": "Carlo Cracco",
+      "description":"Chef Carlo Cracco, who was born in Veneto region’s town of Creazzo in 1965. Rendering flamboyancy to the usual dish, Chef Carlo Cracco is likened to be adding fresh, innovative ideas – the reason why he was awarded Michelin stars multiple times in the restaurants that he has worked like L’Albereta and LeClivie. Chef Carlo appeared as a guest judge on MasterChef and Hell’s Kitchen.",
       "years_of_experience": 7,
       "number_of_recipes": 45,
-      "likes": 4500
+      "likes": 4500,
+      "recipes":[
+        {
+            "id": "ITA0016",
+            "name": "Osso Buco",
+            "ingredients": [
+                "veal shanks", 
+                "onion",
+                "carrot", 
+                "celery", 
+                "canned tomatoes", 
+                "beef broth", 
+                "white wine", 
+                "garlic", 
+                "gremolata (lemon zest, garlic, parsley)"
+            ],
+            "method": [
+                "Brown veal shanks, sauté onion, carrot, and celery", 
+                "add canned tomatoes, beef broth, and white wine", 
+                "add garlic, braise until tender", 
+                "sprinkle with gremolata"
+            ],
+            "rating": 4.3
+        },
+        {
+            "id": "ITA0017",
+            "name": "Fettuccine Alfredo",
+            "ingredients": [
+                "fettuccine", 
+                "butter", 
+                "heavy cream", 
+                "parmesan cheese", 
+                "black pepper", 
+                "parsley"
+            ],
+            "method": [
+                "Cook fettuccine", 
+                "melt butter in a saucepan", 
+                "add heavy cream and parmesan cheese", 
+                "season with black pepper", 
+                "toss with cooked fettuccine", 
+                "garnish with parsley"
+            ],
+            "rating": 4.5
+        },
+        {
+            "id": "ITA0018",
+            "name": "Zuppa Toscana",
+            "ingredients": [
+                "Italian sausage", 
+                "bacon", 
+                "onion", 
+                "garlic", 
+                "potatoes", 
+                "kale", 
+                "chicken broth", 
+                "heavy cream"
+            ],
+            "method": [
+                "Cook Italian sausage and bacon", 
+                "sauté onion and garlic", 
+                "add diced potatoes and chicken broth", 
+                "simmer until potatoes are tender", 
+                "add kale and heavy cream", 
+                "simmer until kale is wilted"
+            ],
+            "rating": 4.2
+        }
+    ]
     }
   ]
   
