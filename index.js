@@ -5,12 +5,16 @@ app.use(cors());
 const port = process.env.PORT || 5000;
 
 const chef= require('./data/chefs.json');
+const foods= require('./data/foods.json');
 
 app.get('/', (req, res)=>{
-    res.send('Hello!');
+    res.send('Server successfully run');
 })
 app.get('/chefs',(req, res)=>{
     res.send(chef);
+})
+app.get('/foods',(req, res)=>{
+    res.send(foods);
 })
 app.get('/chefs/:id', (req, res)=>{
     const id = parseInt(req.params.id);
