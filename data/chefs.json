@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "picture": "https://thiswaytoitaly.com/wp-content/uploads/2022/11/Massimo-Bottura-Famous-Italian-Chefs-1024x682.webp?ezimgfmt=ng:webp/ngcb1",
+      "picture": "https://media.gettyimages.com/id/547544582/photo/italy-gastronomy-restaurant-lifestyle.jpg?s=2048x2048&w=gi&k=20&c=D4t_SbGFxSy-RaF1IBroHg5njQJ8XGakFS7RePhAKvc=",
       "name": "Massimo Bottura",
       "description":"Massimo Bottura is an Italian restaurateur and the chef patron of Osteria Francescana, a three-Michelin-star restaurant based in Modena, Italy ranked No.1 on The World's 50 Best Restaurants list twice and currently part of the Best of the Best list. Massimo Bottura was born and raised in Modena, Italy. He developed an interest in cooking from a young age while watching his mother, grandmother and aunt in the kitchen, preparing meals for the family.",
       "years_of_experience": 10,
@@ -81,7 +81,7 @@
     },
     {
       "id": 2,
-      "picture": "https://thiswaytoitaly.com/wp-content/uploads/2022/11/Giada-De-Laurentiis-Italian-Chefs-1024x726.webp?ezimgfmt=ng:webp/ngcb1",
+      "picture": "https://media.gettyimages.com/id/1052082152/photo/food-network-cooking-channel-new-york-city-wine-food-festival-presented-by-capital-one-food.jpg?s=2048x2048&w=gi&k=20&c=ROuYQhF2t1T-cxBpU9VAxgO6c_Q1RqLqyL2ddvBKDkU=",
       "name": "Giada De Laurentiis",
       "description":"Chef Giada De Laurentiis, one of the best chefs from Italy. She was born in Rome in 1970 and moved to the United States when she was 7 years old. You may recognize Chef Giada from her 2021 cooking show called Bobby and Giada in Italy, where she prepares delicious Italian dishes on TV. Before her television debut, however, Giada Laurentiis started her cooking expertise in her grandfather’s kitchen as she would help him cook in her younger years. From there she was able to observe how food is prepared and all the other stuff that make a good cook. It was also during the time of her grandfather’s restaurant DDL Foodshow, where Laurentiis really grasped the qualities and traits of Italian cuisine.",
       "years_of_experience": 8,
@@ -147,11 +147,11 @@
     },
     {
       "id": 3,
-      "picture": "https://thiswaytoitaly.com/wp-content/uploads/2022/11/Fabio-Viviani-Italian-chef.webp?ezimgfmt=ng:webp/ngcb1",
+      "picture": "https://media.gettyimages.com/id/88186972/photo/top-chef-season-5-contestants-visit-fox-friends.jpg?s=2048x2048&w=gi&k=20&c=BYthzAB7FZVaAvXABfTUw0wS3yyawvWmKZUaMQ0VwcM=",
       "name": "Fabio Viviani",
       "description":"Fabio Viviani started his love for food at a very young age by working as a helper in a local bakery in his home city of Florence in Tuscany. He was only allowed to work there despite not being old enough to get employed because he was friends with the owner. From then on, he has worked in various restaurants. With his amazing cooking skills, Viviani became one of the youngest sous chefs in Italian history at the age of 16.",
       "years_of_experience": 15,
-      "number_of_recipes": 80,
+      "number_of_recipes": 3,
       "likes": 8000,
       "recipes":[
             {
@@ -226,11 +226,11 @@
     },
     {
       "id": 4,
-      "picture": "https://thiswaytoitaly.com/wp-content/uploads/2022/11/Gino-DAcampo-Italian-Chefs-1024x682.webp?ezimgfmt=ng:webp/ngcb1",
+      "picture": "https://media.gettyimages.com/id/96416559/photo/gino-dacampo-book-signing.jpg?s=2048x2048&w=gi&k=20&c=1cBjZ6xWgDwl1SRODTj6DH_rF_kPNvo2HQjcCV8MNQY=",
       "name": "Gino D’Acampo",
       "description":"Chef Gino D’Acampo is known to be one of the few Italian chefs that brought the Italian cuisine – particularly from the south of Naples – to the world, especially to the United Kingdom. As the UK is famous for welcoming indigenous and foreign cooking masters, D’Acampo seized the opportunity to showcase the best of Italian cuisine. Having spread joy and devotion of food, D’Acampo has opened at least 11 branches of his restaurant named after him in the UK, where he serves his sumptuous dishes made with love – keeping it simple and traditional.",
       "years_of_experience": 5,
-      "number_of_recipes": 30,
+      "number_of_recipes": 3,
       "likes": 3000,
       "recipes":[
         {
@@ -296,11 +296,10 @@
     },
     {
       "id": 5,
-      "picture": "https://thiswaytoitaly.com/wp-content/uploads/2022/11/Giorgio-Locatelli-Italian-Chefs-892x1024.webp?ezimgfmt=ng:webp/ngcb1",
-      "name": "Giorgio Locatelli",
+      "picture": "https://media.gettyimages.com/id/92430333/photo/portrait-of-chef-giorgio-locatelli.jpg?s=2048x2048&w=gi&k=20&c=3p5n-kI9ga3UWy9efOXCxx37VERqEw_4iJMOp21UlnM=",
       "description":"Chef Giorgio Locatelli and one would see the total seriousness this great Italian chef puts in his work. Well, that is only a fraction of the dedication he has for the profession. As everyone knows, Chef Giorgio Locatelli is largely a traditional Italian by heart. He was born in 1960 in the Northern Italian city of Vergiate, 45 km. northwest of Milan and some 15 km. southwest of Varese.",
       "years_of_experience": 12,
-      "number_of_recipes": 70,
+      "number_of_recipes": 3,
       "likes": 7000,
       "recipes":[
         {
@@ -365,7 +364,7 @@
     },
     {
       "id": 6,
-      "picture": "https://thiswaytoitaly.com/wp-content/uploads/2022/11/Carlo-Cracco-Italian-Chefs-745x1024.webp?ezimgfmt=ng:webp/ngcb1",
+      "picture": "https://media.gettyimages.com/id/972229272/photo/cook-off-at-the-bocuse-dor-international-culinary-competition.jpg?s=2048x2048&w=gi&k=20&c=Nc6zOLGuhV03L14y06wgmR_GeroFuIsaY0C1dyE2WKA=",
       "name": "Carlo Cracco",
       "description":"Chef Carlo Cracco, who was born in Veneto region’s town of Creazzo in 1965. Rendering flamboyancy to the usual dish, Chef Carlo Cracco is likened to be adding fresh, innovative ideas – the reason why he was awarded Michelin stars multiple times in the restaurants that he has worked like L’Albereta and LeClivie. Chef Carlo appeared as a guest judge on MasterChef and Hell’s Kitchen.",
       "years_of_experience": 7,
